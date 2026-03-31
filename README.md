@@ -1,10 +1,22 @@
+<div align="center">
+
 # 📦 Stock Ledger Manager
 
-A modern, fast, and responsive web application built to manage stock inventory and ledger entries efficiently. 
+**A lightning-fast, modern web application for managing stock inventory and ledger entries.**
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)]()
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
+
 
 🚀 **Live Demo:** [https://stock-ledger-manager.vercel.app](https://stock-ledger-manager.vercel.app)
+
+
 Username: admin
 Password: admin
+
+
 
 <img width="1919" height="934" alt="image" src="https://github.com/user-attachments/assets/ee14450d-1ae2-4049-9f42-cc245a302696" />
 
@@ -34,5 +46,5 @@ If you want to run this project locally on your machine, follow these steps:
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/farizfarooqui/stock-ledger-manager-00.git](https://github.com/farizfarooqui/stock-ledger-manager-00.git)
+git clone [https://github.com/farizfarooqui/stock-ledger-manager.git](https://github.com/farizfarooqui/stock-ledger-manager.git)
 cd stock-ledger-manager-main
