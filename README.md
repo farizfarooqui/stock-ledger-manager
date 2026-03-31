@@ -4,7 +4,8 @@ A modern, fast, and responsive web application built to manage stock inventory a
 
 🚀 **Live Demo:** [https://stock-ledger-manager.vercel.app](https://stock-ledger-manager.vercel.app)
 
-*(Optional: Yahan aap apne project ka ek screenshot add kar sakte hain)*
+<img width="1919" height="934" alt="image" src="https://github.com/user-attachments/assets/ee14450d-1ae2-4049-9f42-cc245a302696" />
+
 ---
 
 ## ✨ Features
