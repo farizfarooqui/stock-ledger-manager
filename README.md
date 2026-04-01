@@ -16,9 +16,13 @@
 Username: admin
 Password: admin
 
-
-
-<img width="1919" height="934" alt="image" src="https://github.com/user-attachments/assets/ee14450d-1ae2-4049-9f42-cc245a302696" />
+<img width="1080" height="999" alt="1" src="https://github.com/user-attachments/assets/d3f29b25-9793-4471-867c-568578d38bfd" />
+<img width="1080" height="999" alt="7" src="https://github.com/user-attachments/assets/b9dc276d-92c9-4394-9d1e-5e99ce8b42b0" />
+<img width="1080" height="999" alt="6" src="https://github.com/user-attachments/assets/91296830-ee1e-4be9-be14-3c8f1d5110c3" />
+<img width="1080" height="999" alt="5" src="https://github.com/user-attachments/assets/5c499ca8-d917-4b37-adec-c3535548e268" />
+<img width="1080" height="999" alt="4" src="https://github.com/user-attachments/assets/e2a3f04d-433a-4f3b-9e66-73792e170966" />
+<img width="1080" height="999" alt="3" src="https://github.com/user-attachments/assets/c97a4cc4-ccb9-425e-a31e-94d933e375b1" />
+<img width="1080" height="999" alt="2" src="https://github.com/user-attachments/assets/ee45640c-1bee-4ded-af3d-532adfbff007" />
 
 ---
 
